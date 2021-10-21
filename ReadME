@@ -1,1 +1,11 @@
+Instructions
+Dice Game
 
+2 players
+The First player to reach 100 wins (you can go over)
+
+Roll the dice and it displays your current score.
+If you roll a 1 your turn ends.
+You can hold and your current score will be added to your total score.
+If you roll a 1 nothing is added to your total.
+When a player reaches 100 the game ends click new game to start over.
